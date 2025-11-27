@@ -1,5 +1,5 @@
 # 💫 About Me:
-Improving my AI-based Resume Analyzer and refining the ML pipeline for my IoT food-spoilage prediction system.<br>Practical backend projects, ML model deployments, or IoT + AI integrations.<br>System design basics, advanced model tuning, and production-grade FastAPI patterns.<br>⚡ Fun fact:<br>I break my projects more than I build them — which is why they end up working.
+Fun fact:<br>I break my projects more than I build them — which is why they end up working.
 
 
 ## 🌐 Socials:
